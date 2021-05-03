@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Ankita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitagupta820)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ankitagupta820/ankitagupta820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
