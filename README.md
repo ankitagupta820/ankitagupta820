@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Ankita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitagupta820&show_icons=true&custom_title=Github%20Stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Ankita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitagupta820&show_icons=true&custom_title=Github%20Stats&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitagupta820&langs_count=8&layout=compact&custom_title=Top%20Languages)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ankitagupta820/ankitagupta820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
