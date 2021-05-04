@@ -1,15 +1,7 @@
 ### Hi there 👋
 
-
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitagupta820&show_icons=true&custom_title=Github%20Stats&hide=issues&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitagupta820&langs_count=8&layout=compact&custom_title=Top%20Languages&count_private=true&card_width=250" />
-</a>
-
+[![Ankita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitagupta820&show_icons=true&custom_title=Github%20Stats&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitagupta820&langs_count=8&layout=compact&custom_title=Top%20Languages&count_private=true&card_width=250)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
