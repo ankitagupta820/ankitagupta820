@@ -6,10 +6,10 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitagupta820&show_icons=true&custom_title=Github%20Stats&hide=issues&count_private=true&card_width=100" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitagupta820&show_icons=true&custom_title=Github%20Stats&hide=issues&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitagupta820&langs_count=8&layout=compact&custom_title=Top%20Languages&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitagupta820&langs_count=8&layout=compact&custom_title=Top%20Languages&count_private=true&card_width=100" />
 </a>
 
 
